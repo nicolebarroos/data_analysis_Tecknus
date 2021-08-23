@@ -174,7 +174,7 @@ app.layout = html.Div(
 
                             ],
                         'layout': {
-                            'title': 'Engajamento dos usuários'
+                            'title': 'Engajamento dos usuários nas telas do app'
                             }
                         }
                     )
